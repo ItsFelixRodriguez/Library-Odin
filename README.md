@@ -4,5 +4,5 @@ This is my submission to the Odin Library Project.
 
 Link here: https://www.theodinproject.com/lessons/node-path-javascript-library
 
-Things accomplished on first committ: 
+Things accomplished on first commit: 
 - create skeleton files for html, css, and js
