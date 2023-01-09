@@ -2,4 +2,15 @@ function hello() {
 	alert('Hello World!')
 }
 
-hello();
+
+
+let myLibrary = [];
+
+function Book() {
+	//constuctor
+}
+
+function addBookToLibrary () {
+	//do stuff onclick event
+}
+

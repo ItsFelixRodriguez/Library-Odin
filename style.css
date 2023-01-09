@@ -8,3 +8,18 @@
 	grid-template-columns: repeat(1fr, 6);
 	grid-template-rows: repeat (1fr, auto );
 }
+
+main {
+	color: beige;
+}
+
+ .book { 
+ 	height: 200px;
+    border: 1px solid black;
+    margin-left: 10px;  
+    background-color: white; 
+    border-left: 30px solid;
+    border-color: #cffafe;
+    border-radius: 2rem;
+   overflow: hidden;
+}
