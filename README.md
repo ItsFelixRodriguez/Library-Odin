@@ -4,5 +4,7 @@ This is my submission to the Odin Library Project.
 
 Link here: https://www.theodinproject.com/lessons/node-path-javascript-library
 
-Things accomplished on first commit: 
-- create skeleton files for html, css, and js
+Things to finsih: 
+-onClick event for adding book
+-write the JS object prototype
+-style the "cards" for each book
