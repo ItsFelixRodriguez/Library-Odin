@@ -2,3 +2,9 @@
 	padding: 0;
 	margin: 0;
 }
+
+.container {
+	display: grid;
+	grid-template-columns: repeat(1fr, 6);
+	grid-template-rows: repeat (1fr, auto );
+}
